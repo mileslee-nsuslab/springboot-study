@@ -38,7 +38,7 @@ tasks.named('test') {
 
 sonar {
   properties {
-    property "sonar.projectKey", "mileslee-nsuslab_springboot-study_AYqSbaHE4m729PlEro0A"
+    property "sonar.projectKey", "mileslee-nsuslab_springboot-study_AYqWsAWD5pGE34CDZzRM"
     property "sonar.projectName", "springboot-study"
   }
 }
